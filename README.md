@@ -9,11 +9,11 @@ Skills: HTML / CSS / JS / REACT / GATSBY /
 - 🌱 I’m currently learning ExpressJS 
 - 😄 Pronouns: He/His 
 
-[![CyberDevv's GitHub stats](https://github-readme-stats.vercel.app/api?username=CyberDevv&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![CyberDevv's GitHub stats](https://github-readme-stats.vercel.app/api?username=CyberDevv&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CyberDevv)](https://github.com/anuraghazra/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=CyberDevv)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=CyberDevv)](https://github.com/anuraghazra/github-readme-stats) -->
 <!-- ![Profile views](https://gpvc.arturio.dev/CyberDevv) -->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CyberDevv&theme=dark)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CyberDevv&theme=dark)](https://git.io/streak-stats) -->
 
 
 
