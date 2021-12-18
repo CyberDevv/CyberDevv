@@ -2,9 +2,14 @@
 #### Frond-End Developer
 ![Frond-End Developer](https://s3.amazonaws.com/shecodesio-production/uploads/files/000/011/782/original/frontend.png?1624833023)
 
-I am a Front-End developer with more than 3+ years of experience in building websites and web applications. I specialize in JavaScript and have professional experience working with ReactJS and APIs to create functional, aesthetic websites that users can interact with. I also have experience working with TailwindCSS, JQuery, GatsbyJS and also NodeJS. You can checkout some of my projects.
+I am a Front-End developer with 2+ years of experience in building websites
+and web applications. I specialize in JavaScript and have professional
+experience working with ReactJS and APIs to create functional, aesthetic
+websites that users can interact with. I also have experience working with
+TailwindCSS, GatsbyJS, NextJS, NodeJS, and also Headless CMS like
+Contentful and Strapi.
 
-Skills: HTML / CSS / JS / REACT / GATSBY / 
+Skills: HTML / CSS / JS / REACT / GATSBY / NextJS / Typescript / 
 
 - 🌱 I’m currently learning ExpressJS 
 - 😄 Pronouns: He/His 
