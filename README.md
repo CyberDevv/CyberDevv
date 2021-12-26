@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Ibrahim
 #### Frond-End Developer
-![Frond-End Developer](https://s3.amazonaws.com/shecodesio-production/uploads/files/000/011/782/original/frontend.png?1624833023)
+<!-- ![Frond-End Developer](https://s3.amazonaws.com/shecodesio-production/uploads/files/000/011/782/original/frontend.png?1624833023) -->
 
 I am a Front-End developer with 2+ years of experience in building websites
 and web applications. I specialize in JavaScript and have professional
