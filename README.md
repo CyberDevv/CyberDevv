@@ -15,7 +15,7 @@ Skills: HTML / CSS / JS / REACT / GATSBY / NextJS / Typescript /
 - 😄 Pronouns: He/His 
 
 
-![Metrics](https://github.com/my-github-user/my-github-user/blob/master/github-metrics.svg)
+![Metrics](https://github.com/CyberDevv/CyberDevv/blob/master/github-metrics.svg)
 
 <!-- [![CyberDevv's GitHub stats](https://github-readme-stats.vercel.app/api?username=CyberDevv&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CyberDevv)](https://github.com/anuraghazra/github-readme-stats)
