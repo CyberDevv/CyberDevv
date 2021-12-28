@@ -14,6 +14,9 @@ Skills: HTML / CSS / JS / REACT / GATSBY / NextJS / Typescript /
 - 🌱 I’m currently learning ExpressJS 
 - 😄 Pronouns: He/His 
 
+
+![Metrics](https://github.com/my-github-user/my-github-user/blob/master/github-metrics.svg)
+
 <!-- [![CyberDevv's GitHub stats](https://github-readme-stats.vercel.app/api?username=CyberDevv&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CyberDevv)](https://github.com/anuraghazra/github-readme-stats)
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=CyberDevv)](https://github.com/anuraghazra/github-readme-stats) -->
