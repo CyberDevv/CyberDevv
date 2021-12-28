@@ -17,6 +17,8 @@ Skills: HTML / CSS / JS / REACT / GATSBY / NextJS / Typescript /
 
 ![Metrics](https://github.com/CyberDevv/CyberDevv/blob/master/github-metrics.svg)
 
+[<img align="left" width="390" alt="🦑" src="https://github.com/CyberDevv/CyberDevv/blob/master/metrics.svg">](https://github.com/CyberDevv/metrics)
+
 <!-- [![CyberDevv's GitHub stats](https://github-readme-stats.vercel.app/api?username=CyberDevv&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CyberDevv)](https://github.com/anuraghazra/github-readme-stats)
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=CyberDevv)](https://github.com/anuraghazra/github-readme-stats) -->
