@@ -14,9 +14,7 @@ Skills: HTML / CSS / JS / REACT / GATSBY / NextJS / Typescript /
 - 🌱 I’m currently learning ExpressJS 
 - 😄 Pronouns: He/His 
 
-[<img align="left" width="390" alt="🦑" src="https://github.com/CyberDevv/CyberDevv/blob/master/metrics.plugin.classic_template.svg">](https://github.com/CyberDevv/metrics)
-
-[<img align="left" width="390" alt="🦑" src="https://github.com/CyberDevv/CyberDevv/blob/master/metrics.plugin.activities.svg">](https://github.com/CyberDevv/metrics)
+<!--[<img align="left" width="390" alt="🦑" src="https://github.com/CyberDevv/CyberDevv/blob/master/metrics.plugin.classic_template.svg">](https://github.com/CyberDevv/metrics) -->
 
 
 [<img align="left" width="390" alt="🦑" src="https://github.com/CyberDevv/CyberDevv/blob/master/metrics.plugin.coding_habits.svg">](https://github.com/CyberDevv/metrics)
