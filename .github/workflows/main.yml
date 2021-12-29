@@ -23,10 +23,13 @@ jobs:
           repositories_skipped: lowlighter/lowlighter    # Exclude automatically "lowlighter/lowlighter" repository from plugins allowing a skip list
           commits_authoring: octocat@github.com
           
-      - name: Achievements
+      # ======================================================================================
+      # Recent activities
+          
+      - name: Activities
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.achievements.svg
+          filename: metrics.plugin.activities.svg
           plugin_activity: yes
           plugin_activity_limit: 5           # Limit to 5 events
           plugin_activity_load: 100          # Load up to 100 recent events from API (should be higher than "limit")
