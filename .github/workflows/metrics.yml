@@ -13,8 +13,9 @@ jobs:
       - name: classic template
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.classic_template.svg
           token: ${{ secrets.PERSONAL_TOKEN_FOR_METRIC }}
+          
+          filename: metrics.plugin.classic_template.svg
           base: header, repositories                     # Only display "header" and "repositories" sections
           repositories: 100                              # Query only last 100 repositories
           repositories_batch: 15                         # Query repositories 25 by 25 (lower this to avoid API timeouts)
@@ -23,9 +24,6 @@ jobs:
           repositories_skipped: lowlighter/lowlighter    # Exclude automatically "lowlighter/lowlighter" repository from plugins allowing a skip list
           commits_authoring: octocat@github.com
 
-      - name: Activities
-        uses: lowlighter/metrics@latest
-        with:
           filename: metrics.plugin.activities.svg
           plugin_activity: yes
           plugin_activity_limit: 5           # Limit to 5 events
@@ -35,14 +33,9 @@ jobs:
           plugin_activity_visibility: all # Only display public events
           plugin_activity_timestamps: yes    # Display events timestamps
           plugin_activity_skipped: "" 
-          # Your GitHub token
-          token: ${{ secrets.PERSONAL_TOKEN_FOR_METRIC }}
 
-      - name: Coding Habits
-        uses: lowlighter/metrics@latest
-        with:
+
           filename: metrics.plugin.coding_habits.svg
-          token: ${{ secrets.PERSONAL_TOKEN_FOR_METRIC }}
           plugin_habits: yes
           plugin_habits_from: 200       # Use 200 events to compute habits
           plugin_habits_days: 14        # Keep only events from last 14 days
