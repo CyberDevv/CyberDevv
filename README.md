@@ -14,10 +14,9 @@ Skills: HTML / CSS / JS / REACT / GATSBY / NextJS / Typescript /
 - 🌱 I’m currently learning ExpressJS 
 - 😄 Pronouns: He/His 
 
+[<img align="left" width="390" alt="🦑" src="https://github.com/CyberDevv/CyberDevv/blob/master/metrics.plugin.activities.svg">](https://github.com/CyberDevv/metrics)
 
-![Metrics](https://github.com/CyberDevv/CyberDevv/blob/master/github-metrics.svg)
-
-[<img align="left" width="390" alt="🦑" src="https://github.com/CyberDevv/CyberDevv/blob/master/metrics.svg">](https://github.com/CyberDevv/metrics)
+<!-- [<img align="left" width="390" alt="🦑" src="https://github.com/CyberDevv/CyberDevv/blob/master/metrics.plugin.classic_template.svg">](https://github.com/CyberDevv/metrics) -->
 
 <!-- [![CyberDevv's GitHub stats](https://github-readme-stats.vercel.app/api?username=CyberDevv&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CyberDevv)](https://github.com/anuraghazra/github-readme-stats)
