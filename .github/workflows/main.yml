@@ -10,9 +10,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       # See action.yml for all options
-      - uses: lowlighter/metrics@latest
+      - name: classic template
+        uses: lowlighter/metrics@latest
         with:
-          # ... other options
+          filename: metrics.plugin.classic_template.svg
+          token: ${{ secrets.PERSONAL_TOKEN_FOR_METRIC }}
           base: header, repositories                     # Only display "header" and "repositories" sections
           repositories: 100                              # Query only last 100 repositories
           repositories_batch: 15                         # Query repositories 25 by 25 (lower this to avoid API timeouts)
@@ -21,6 +23,10 @@ jobs:
           repositories_skipped: lowlighter/lowlighter    # Exclude automatically "lowlighter/lowlighter" repository from plugins allowing a skip list
           commits_authoring: octocat@github.com
           
+      - name: Achievements
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.achievements.svg
           plugin_activity: yes
           plugin_activity_limit: 5           # Limit to 5 events
           plugin_activity_load: 100          # Load up to 100 recent events from API (should be higher than "limit")
