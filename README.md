@@ -14,19 +14,17 @@ Skills: HTML / CSS / JS / REACT / GATSBY / NextJS / Typescript /
 - 🌱 I’m currently learning ExpressJS 
 - 😄 Pronouns: He/His 
 
-<!--[<img align="left" width="390" alt="🦑" src="https://github.com/CyberDevv/CyberDevv/blob/master/metrics.plugin.classic_template.svg">](https://github.com/CyberDevv/metrics) -->
-
-
-[<img align="left" width="390" alt="🦑" src="https://github.com/CyberDevv/CyberDevv/blob/master/metrics.plugin.coding_habits.svg">](https://github.com/CyberDevv/metrics)
-
-<!-- [![CyberDevv's GitHub stats](https://github-readme-stats.vercel.app/api?username=CyberDevv&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CyberDevv)](https://github.com/anuraghazra/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=CyberDevv)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- [![CyberDevv's GitHub stats](https://github-readme-stats.vercel.app/api?username=CyberDevv&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CyberDevv)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=CyberDevv)](https://github.com/anuraghazra/github-readme-stats) -->
 <!-- ![Profile views](https://gpvc.arturio.dev/CyberDevv) -->
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CyberDevv&theme=dark)](https://git.io/streak-stats) -->
 
 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/CyberDevv) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/odesolaibrahim//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/odesola.ibrahim.dev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/CyberDevv)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://ibrahim-odesola.netlify.app/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/https://github.com/CyberDevv)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/https://www.linkedin.com/in/odesolaibrahim//)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='30'>](https://twitter.com/https://twitter.com/CyberDevv)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='30'>](https://ibrahim-odesola.netlify.app/)  
 
