@@ -2,7 +2,7 @@
 #### Frond-End Developer
 <!-- ![Frond-End Developer](https://s3.amazonaws.com/shecodesio-production/uploads/files/000/011/782/original/frontend.png?1624833023) -->
 
-I am a Front-End developer with 2+ years of experience in building websites
+I am a Front-End developer with 5+ years of experience in building websites
 and web applications. I specialize in JavaScript and have professional
 experience working with ReactJS and APIs to create functional, aesthetic
 websites that users can interact with. I also have experience working with
@@ -11,7 +11,6 @@ Contentful and Strapi.
 
 Skills: HTML / CSS / JS / REACT / GATSBY / NextJS / Typescript / 
 
-- 🌱 I’m currently learning ExpressJS 
 - 😄 Pronouns: He/His 
 
 <!-- [![CyberDevv's GitHub stats](https://github-readme-stats.vercel.app/api?username=CyberDevv&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats) -->
